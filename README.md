@@ -23,7 +23,7 @@ Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, N
 
 ## Getting Started
 
-To get started with this project, follow these steps:
+To get started with this project, follow these steps
 
 1. Clone this repository to your local machine.
 2. Install Node.js if not already installed.

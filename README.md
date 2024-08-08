@@ -1,9 +1,5 @@
 # Binkgram.chat
 
-Welcome to the Binkgram.chat repository! This is the codebase for a chat web application designed for real-time communication.
-
-## Introduction
-
 Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, Node.js, and Socket.io technologies. It provides users with a platform for engaging in simultaneous conversations with multiple individuals in real time.
 
 ## Features

@@ -11,7 +11,7 @@ Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, N
 
 ## Technologies Used
 
-- **HTML**: Markup language for creating the structure of the web application.
+- **HTML**: Markup language for creating the structure of the web application
 - **CSS**: Styling language for designing the visual appearance of the application.
 - **JavaScript**: Programming language for adding interactivity and functionality.
 - **Node.js**: JavaScript runtime for server-side development.

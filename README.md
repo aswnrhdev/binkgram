@@ -15,7 +15,7 @@ Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, N
 - **CSS**: Styling language for designing the visual appearance of the application
 - **JavaScript**: Programming language for adding interactivity and functionality
 - **Node.js**: JavaScript runtime for server-side development.
-- **Socket.io**: Library for enabling real-time, bidirectional communication between web clients and servers.
+- **Socket.io**: Library for enabling real-time, bidirectional communication between web clients and servers
 
 ## Getting Started
 

@@ -23,6 +23,6 @@ To get started with this project, follow these steps
 
 1. Clone this repository to your local machine
 2. Install Node.js if not already installed
-3. Install the necessary dependencies using npm or yarn.
+3. Install the necessary dependencies using npm or yarn
 4. Start the server using `npm start`
 5. Open the web application in your browser and start chatting!

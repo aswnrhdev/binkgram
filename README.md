@@ -1,6 +1,6 @@
 # Binkgram.chat
 
-Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, Node.js, and Socket.io technologies. It provides users with a platform for engaging in simultaneous conversations with multiple individuals in real time.
+Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, Node.js, and Socket.io technologies, It provides users with a platform for engaging in simultaneous conversations with multiple individuals in real time.
 
 ## Features
 

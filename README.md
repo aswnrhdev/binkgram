@@ -4,10 +4,10 @@ Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, N
 
 ## Features
 
-- **Real-time Communication**: Enjoy seamless real-time communication with other users
-- **Chat Rooms**: Enter chat rooms by clicking the join button and engage in conversations
-- **Multiple Conversations**: Simultaneously converse with multiple individuals within the same chat room
-- **Easy Exit**: Exiting the chat is as simple as clicking the exit button
+- **Real-time Communication**: Enjoy seamless real-time communication with other users.
+- **Chat Rooms**: Enter chat rooms by clicking the join button and engage in conversations.
+- **Multiple Conversations**: Simultaneously converse with multiple individuals within the same chat room.
+- **Easy Exit**: Exiting the chat is as simple as clicking the exit button.
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, N
 - **CSS**: Styling language for designing the visual appearance of the application.
 - **JavaScript**: Programming language for adding interactivity and functionality.
 - **Node.js**: JavaScript runtime for server-side development.
-- **Socket.io**: Library for enabling real-time, bidirectional communication between web clients and servers
+- **Socket.io**: Library for enabling real-time, bidirectional communication between web clients and servers.
 
 ## Getting Started
 

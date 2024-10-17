@@ -9,7 +9,7 @@ Binkgram.chat is a chat web application developed using HTML, CSS, JavaScript, N
 - **Multiple Conversations**: Simultaneously converse with multiple individuals within the same chat room.
 - **Easy Exit**: Exiting the chat is as simple as clicking the exit button.
 
-## Technologies Used
+## Technologies
 
 - **HTML**: Markup language for creating the structure of the web application.
 - **CSS**: Styling language for designing the visual appearance of the application.
